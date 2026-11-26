@@ -1,0 +1,6 @@
+{
+  "name": "課堂抽籤與自動分組",
+  "description": "專為教師設計的課堂點名抽籤與自動分組工具，支援 CSV 上傳與名單貼上、動畫音效抽籤（可設定重複或不重複）及視覺化分組顯示。",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
